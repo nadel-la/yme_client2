@@ -1,0 +1,30 @@
+{
+  "name": "fsjs-p2-v2-iproject-client-nadel-la",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H8-P2-S2/fsjs-p2-v2-iproject-client-nadel-la.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H8-P2-S2/fsjs-p2-v2-iproject-client-nadel-la/issues"
+  },
+  "homepage": "https://github.com/H8-P2-S2/fsjs-p2-v2-iproject-client-nadel-la#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "flowbite": "^1.6.5",
+    "tailwindcss-blend-mode": "^1.0.0",
+    "vue-toast-notification": "^3.1.1"
+  },
+  "description": ""
+}

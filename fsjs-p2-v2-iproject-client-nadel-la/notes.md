@@ -1,0 +1,2 @@
+- install vue
+- install vue goolge login

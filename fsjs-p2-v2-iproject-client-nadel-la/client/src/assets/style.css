@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --overlay: #03a9fa;
+  font-family: 'Poppins', sans-serif;
+}
+
+.showcase {
+  transition: 0.5s;
+}
+
+.showcase-active {
+  @apply right-72;
+}
+
+.menu-a {
+  @apply text-gray-800 hover:text-overlay no-underline text-2xl;
+} */
